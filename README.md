@@ -1,7 +1,6 @@
 # java2022-kodlama.io
 (2022) Java Yazılım Geliştirici Yetiştirme Kampı
-
-<p>1 :  Başlıyoruz<p>
+<p>1 :  Başlıyoruz
 <br>Tarih: 14.09.2022
 <br>Eğitmen: Engin Demiroğ
 <br>Ders: https://www.kodlama.io/courses/enrolled/1868842
